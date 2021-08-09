@@ -1,6 +1,8 @@
 # ml_notes ✨
 Machine Learning notes 
 
+# EDIT 1 
+
 ## CORE CONCEPTS : 
 
 - Optimization Algorithm - gradient descent
