@@ -13,7 +13,7 @@ Machine Learning notes
 
 <hr/>
 
-Misconceptions cleared till now: 
+## Misconceptions cleared till now: 
 
 - Gradient descent will always reach the global minima for convex functions like linear and logistic regression . The only problem is the rate of convergence.
 - Gradient descent is not a hypothesis , rather it is a Optimization algorithm which is used to converge the loss function. Similar algorithms are available but have higher complexity.
@@ -22,5 +22,5 @@ Misconceptions cleared till now:
 
 <hr/>
 
-This weeks goal : 
+## This weeks goal : 
 - Learn enough tensorflow to understand kaggle code
